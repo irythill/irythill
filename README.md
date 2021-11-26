@@ -1,6 +1,6 @@
 ### Heyo, bem-vindo! ✨
 
-Meu nome é **Henrique**, tenho **21 anos**, moro no **Rio Grande do Sul** e estou estudando **programação** desde o meio desse ano (2021).  Faço faculdade de **Análise e Desenvolvimento de Sistemas**, e também tenho realizado alguns cursos complementares para ajudar a **solidificar** meu conhecimento. Pretendo atuar como desenvolvedor futuramente, tanto no front-end quanto no back-end.
+Meu nome é **Henrique**, tenho **23 anos**, moro no **Rio Grande do Sul** e estou estudando **programação** desde o meio desse ano (2021).  Faço faculdade de **Análise e Desenvolvimento de Sistemas**, e também tenho realizado alguns cursos complementares para ajudar a **solidificar** meu conhecimento. Pretendo atuar como desenvolvedor futuramente, tanto no front-end quanto no back-end.
 
 <div align="center">
   <a href="https://github.com/dxthko">
