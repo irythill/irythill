@@ -2,6 +2,8 @@
 
 Meu nome é **Henrique**, tenho **23 anos**, moro no **Rio Grande do Sul** e estou estudando **programação** desde o meio desse ano (2021).  Faço faculdade de **Análise e Desenvolvimento de Sistemas**, e também tenho realizado alguns cursos complementares para ajudar a **solidificar** meu conhecimento. Pretendo atuar como desenvolvedor futuramente, tanto no front-end quanto no back-end.
 
+Atualmente estou estudando a linguagem JavaScript, Node.js e MySQL. Também costumo praticar HTML e CSS para que assim eu não esqueça o que já aprendi, e também para descobrir novas coisas sobre.
+
 <div align="center">
   <a href="https://github.com/dxthko">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=7&theme=dracula"/>
