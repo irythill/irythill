@@ -2,9 +2,9 @@
 
 Meu nome é **Henrique**, tenho **23 anos**, moro no **Rio Grande do Sul** e estou estudando **programação** desde Junho de 2021, porém o interesse vem de tempos atrás. Estou cursando **Análise e Desenvolvimento de Sistemas** e também tenho realizado cursos complementares para expandir e solidificar meus conhecimentos.
 
-Possuo conhecimento em HTML, CSS e estou estudando JavaScript, sendo essas três tecnologias o meu foco no momento. Também possuo noções básicas de MySQL que adquiri na faculdade e também com ajuda de cursos. Tenho interesse em aprender futuramente algum framework de JS (React, Angular, Vue) e também tenho curiosidade com Node.js, podendo assim ter noções de como funciona o JavaScript no back-end.
+Possuo conhecimento em **HTML**, **CSS** e estou estudando **JavaScript**, sendo essas três tecnologias o meu foco no momento. Também possuo noções básicas de **MySQL** que adquiri na faculdade e também com ajuda de cursos. Tenho interesse em aprender futuramente algum **framework** de JS (React, Angular, Vue) e também tenho curiosidade com **Node.js**, podendo assim ter noções de como funciona o JavaScript no back-end.
 
-Estou procurando oportunidades de estágio para atuar como desenvolvedor front-end, porém não descarto aprender e atuar com tecnologias back-end.
+Estou procurando por oportunidades de **estágio** para atuar como desenvolvedor front-end, porém **não descarto aprender e atuar com tecnologias back-end**.
 
 <div align="center">
   <a href="https://github.com/dxthko">
