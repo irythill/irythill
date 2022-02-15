@@ -6,9 +6,13 @@ Possuo conhecimento em **HTML**, **CSS** e estou estudando **JavaScript**, sendo
 
 Estou procurando por oportunidades de **estágio** para atuar como desenvolvedor front-end, porém **não descarto aprender e atuar com tecnologias back-end**.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/dxthko">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div align="right">
+  <img src="https://cdn.dribbble.com/users/416610/screenshots/2391640/media/041ee89d180cdbf71047113aa6abd667.png?compress=1&resize=800x600&vertical=top"/>
 </div>
   
  ## 🔗 Redes sociais
