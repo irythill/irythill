@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## ✨ Heyo, welcome!
+  ## ✨ Heyo, welcome to my GitHub profile!
   
 </div>
 
@@ -25,18 +25,22 @@
 <p align="left">
   - 🔎 <strong>Looking for opportunities as a Front-end dev</strong>!
 </p>
+
+##
   
 <div align="center">
   <a href="https://github.com/dxthko">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+
 <div align="center">
   
-  ## 🔗 Social medias
+  ### 🔗 Social medias
   
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/hsp/" target="_blank" alt="Meu Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-673ab7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/dxthko" target="_blank" alt="Meu Twitter"> <img src="https://img.shields.io/badge/Twitter-522e92?style=for-the-badge&logo=twitter&logoColor=white" /></a>
