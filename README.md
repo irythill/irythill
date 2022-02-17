@@ -7,11 +7,11 @@
 <img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="300px" max-width="300px" width="250px" align="right" alt="Henrique's peeps illustration" />
 
 <p align="left">
-  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>24yo</strong> and I'm studying <strong>System Analysis and Development</strong>.
+  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>24yo</strong> and I study <strong>System Analysis and Development</strong>.
 </p>
 
 <p align="left">
-  - 📚 I have <strong>knowledge</strong> in
+  - 📚 I have <strong>experience</strong> with
       <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
       <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  - 👨🏾‍💻 Currently <strong>studying</strong> <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.
+  - 👨🏾‍💻 Currently <strong>learning</strong> <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.
 </p>
 
 <p align="left">
