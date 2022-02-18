@@ -11,15 +11,19 @@
 </p>
 
 <p align="left">
-  - 📚 I have <strong>experience</strong> with
-      <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-      <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-      <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  - 👨🏾‍💻 I'm more <strong>confident</strong> with
+      <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> and
+      <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />.
+</p>
+
+<p align="left">
+  - 👊🏾 With a bit of help, I can <strong>manage</strong>
+      <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> and
       <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />.
 </p>
 
 <p align="left">
-  - 👨🏾‍💻 Currently <strong>learning</strong> <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.
+  - 📚 Currently <strong>learning</strong> <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.
 </p>
 
 <p align="left">
