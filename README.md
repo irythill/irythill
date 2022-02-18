@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  - 🔎 <strong>Looking for opportunities as a Front-end dev</strong>!
+  - 🔎 Looking for my <strong>first opportunity</strong> as a dev to improve my skills and to keep learning <3.
 </p>
 
 ##
