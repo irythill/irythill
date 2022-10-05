@@ -31,13 +31,6 @@
 </p>
 
 ##
-  
-<div align="center">
-  <a href="https://github.com/dxthko">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
-##
 
 <div align="center">
   
