@@ -1,33 +1,36 @@
 <div align="center">
   
-  ## ✨ Heyo, welcome to my GitHub profile!
+  ## ✨ Heyo, welcome to my GitHub profile! ✨
   
 </div>
 
 <img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="300px" max-width="300px" width="250px" align="right" alt="Henrique's peeps illustration" />
 
 <p align="left">
-  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>24yo</strong> and I study <strong>System Analysis and Development</strong>.
+  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>24yo</strong> and I study <strong>System Analysis and Development</strong> at <strong>IFRS</strong>.
 </p>
 
 <p align="left">
-  - 👨🏾‍💻 I'm more <strong>confident</strong> with
+  - 👨🏾‍💻 I'm very <strong>confident</strong> with
       <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> and
       <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />.
 </p>
 
 <p align="left">
   - 👊🏾 With a bit of help, I can <strong>manage</strong>
-      <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> and
-      <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />.
+      <img align="center" alt="JavaScript" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> and
+      <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />.
 </p>
 
 <p align="left">
-  - 📚 Currently <strong>learning</strong> <img align="center" alt="MySQL" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />.
-</p>
+  - 📚 I'm currently <strong>learning</strong> 
+  <img align="center" alt="C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+  at college and I have <strong>basic knowlegde of</strong>
+  <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>.
 
 <p align="left">
-  - 🔎 Looking for my <strong>first opportunity</strong> as a dev to improve my skills and to keep learning <3.
+  - 🔎 Looking for my <strong>first internship</strong> as a developer to improve my skills and to keep learning <3.
 </p>
 
 ##
