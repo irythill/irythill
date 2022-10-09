@@ -26,11 +26,11 @@
   - 📚 I'm currently <strong>learning</strong> 
   <img align="center" alt="C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   at college and I have <strong>basic knowlegde of</strong>
-  <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</p>.
+  <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />.
+</p>
 
 <p align="left">
-  - 🔎 Looking for my <strong>first internship</strong> as a developer to improve my skills and to keep learning <3.
+  - 🔎 Looking for my <strong>first internship</strong> as a developer to improve my skills and to keep learning 🖤!
 </p>
 
 ##
