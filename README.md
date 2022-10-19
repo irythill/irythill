@@ -45,7 +45,6 @@
   <a href="https://www.linkedin.com/in/hsp/" target="_blank" alt="Meu Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-673ab7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/dxthko" target="_blank" alt="Meu Twitter"> <img src="https://img.shields.io/badge/Twitter-522e92?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/irythill/" target="_blank" alt="Meu Instagram"> <img src="https://img.shields.io/badge/Instagram-3e236e?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/eswyr" target="_blank" alt="Meu Facebook"> <img src="https://img.shields.io/badge/Facebook-522e92?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:h.sp97@hotmail.com" target="_blank" alt="Meu E-mail"> <img src="https://img.shields.io/badge/Microsoft_Outlook-673ab7?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
