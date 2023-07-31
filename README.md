@@ -7,7 +7,7 @@
 <img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="300px" max-width="300px" width="250px" align="right" alt="Henrique's peeps illustration" />
 
 <p align="left">
-  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>24yo</strong> and I study <strong>System Analysis and Development</strong> at <strong>IFRS</strong>.
+  - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>26yo</strong> and I'm studying <strong>System Analysis and Development</strong> at <strong>IFRS</strong>.
 </p>
 
 <p align="left">
