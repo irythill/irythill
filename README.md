@@ -54,8 +54,8 @@
   
   ### 📊 GitStats
 
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=irythill&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irythill&layout=compact&langs_count=10&theme=material-palenight"/>
+  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=irythill&layout=compact&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irythill&layout=compact&langs_count=15&theme=material-palenight"/>
 
 </div>
 
