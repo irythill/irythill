@@ -12,23 +12,23 @@
 
 <p align="left">
   - 👨🏾‍💻 I'm <strong>confident</strong> with
-      <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>, 
-      <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />, 
+      <img align="center" alt="HTML" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>, 
+      <img align="center" alt="CSS" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />, 
       <img align="center" alt="JavaScript" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />,  
-      <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> and
-      <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> and
+      <img align="center" alt="Figma" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 <p align="left">
   - 👊🏾 With a bit of help, I can <strong>manage</strong>
-      <img align="center" alt="C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />  and
-      <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />;
+      <img align="center" alt="C" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />  and
+      <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />;
 </p>
 
 <p align="left">
   - 📚 I'm currently <strong>studying</strong> front-end technologies, such as React. However, I'm open to any kind of technologies/languages. I am also
-  studying database languages like <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> and 
-  <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>;
+  studying database languages like <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> and 
+  <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>;
 </p>
 
 <p align="left">
