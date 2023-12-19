@@ -54,8 +54,8 @@
   
   ### 📊 GitStats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxthko&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=15&theme=material-palenight"/>
+  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=dxthko&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=15&theme=material-palenight"/>
 
 </div>
 
