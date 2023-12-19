@@ -4,7 +4,7 @@
   
 </div>
 
-<img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="300px" max-width="300px" width="250px" align="right" alt="Henrique's peeps illustration" />
+<img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Henrique's peeps illustration" />
 
 <p align="left">
   - 🙋🏾‍♂️ My name's <strong>Henrique</strong>, I'm <strong>26yo</strong> and I'm studying <strong>System Analysis and Development</strong> at <strong>IFRS</strong>.
@@ -37,15 +37,25 @@
 
 ##
 
-<div align="left">
+<div align="center">
   
   ### 🔗 Social medias
-  
-<br>
+
 
   <a href="https://www.linkedin.com/in/hsp/" target="_blank" alt="Meu Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-673ab7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/dxthko" target="_blank" alt="Meu Twitter"> <img src="https://img.shields.io/badge/Twitter-522e92?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/irythill/" target="_blank" alt="Meu Instagram"> <img src="https://img.shields.io/badge/Instagram-3e236e?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:h.sp97@hotmail.com" target="_blank" alt="Meu E-mail"> <img src="https://img.shields.io/badge/Microsoft_Outlook-673ab7?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
+
+##
+
+<div align="center">
+  
+  ### 📊 GitStats
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxthko&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthko&layout=compact&langs_count=15&theme=material-palenight"/>
+
 </div>
 
