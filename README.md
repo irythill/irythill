@@ -11,37 +11,38 @@
 </p>
 
 <p align="left">
-  - 👨🏾‍💻 I'm very <strong>confident</strong> with
-      <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/> and
-      <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />.
+  - 👨🏾‍💻 I'm <strong>confident</strong> with
+      <img align="center" alt="HTML" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>, 
+      <img align="center" alt="CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />, 
+      <img align="center" alt="JavaScript" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />,  
+      <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> and
+      <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 <p align="left">
   - 👊🏾 With a bit of help, I can <strong>manage</strong>
-      <img align="center" alt="JavaScript" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> and
-      <img align="center" alt="SASS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />.
+      <img align="center" alt="C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />  and
+      <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />;
 </p>
 
 <p align="left">
-  - 📚 I'm currently <strong>learning</strong> 
-  <img align="center" alt="C" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-  at college and I have <strong>basic knowlegde of</strong>
-  <img align="center" alt="Java" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />.
+  - 📚 I'm currently <strong>studying</strong> front-end technologies, such as React. However, I'm open to any kind of technologies/languages. I am also
+  studying database languages like <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> and 
+  <img align="center" alt="Node.js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>;
 </p>
 
 <p align="left">
-  - 🔎 Looking for my <strong>first internship</strong> as a developer to improve my skills and to keep learning 🖤!
+  - 🔎 I'm looking for my <strong>first internship</strong> or a <strong>junior position</strong> as a developer to improve my skills and to keep learning 🖤!
 </p>
 
 ##
 
-<div align="center">
+<div align="left">
   
   ### 🔗 Social medias
   
-</div>
 <br>
-<div align="center">
+
   <a href="https://www.linkedin.com/in/hsp/" target="_blank" alt="Meu Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-673ab7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/dxthko" target="_blank" alt="Meu Twitter"> <img src="https://img.shields.io/badge/Twitter-522e92?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/irythill/" target="_blank" alt="Meu Instagram"> <img src="https://img.shields.io/badge/Instagram-3e236e?style=for-the-badge&logo=instagram&logoColor=white"></a>
