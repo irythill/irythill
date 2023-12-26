@@ -22,13 +22,13 @@
 <p align="left">
   - 👊🏾 With a bit of help, I can <strong>manage</strong>
       <img align="center" alt="C" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />  and
-      <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />;
+      <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </p>
 
 <p align="left">
   - 📚 I'm currently <strong>studying</strong> front-end technologies, such as React. However, I'm open to any kind of technologies/languages. I am also
   studying database languages like <img align="center" alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> and 
-  <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>;
+  <img align="center" alt="MongoDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
 </p>
 
 <p align="left">
