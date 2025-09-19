@@ -41,8 +41,6 @@
   <img alt="Linux" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Arch Linux" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 
-  [![GitHub Streak](https://github-readme-streak-stats-gtwl9im4b-dxthkos-projects.vercel.app?user=irythill&theme=material-palenight)](https://git.io/streak-stats)
-
 </div>
 
 ##
@@ -50,7 +48,7 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=irythill&show_icons=true&theme=material-palenight" />
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irythill&layout=compact&langs_count=10&theme=material-palenight"/>
+  <img height="175rem" src="https://github-readme-streak-stats-ochre-sigma.vercel.app?user=irythill&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irythill&layout=compact&langs_count=10&theme=midnight-purple"/>
 
 </div>
