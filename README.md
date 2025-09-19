@@ -50,5 +50,6 @@
   <!-- GitHub Stats -->
   <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=irythill&show_icons=true&theme=material-palenight" />
   <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irythill&layout=compact&langs_count=10&theme=material-palenight"/>
+  <img height="175" src="https://streak-stats.demolab.com?user=irythill&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 
 </div>
