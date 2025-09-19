@@ -4,9 +4,7 @@
   
 </div>
 
-<img src="https://assets.website-files.com/5e51c674258ffe10d286d30a/5e535a83d3992372c25556b9_peep-76.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Henrique's peeps illustration" />
-
-<p align="left">
+<p align="center">
   <ul>
     <li>🙋🏾‍♂️ I'm a <strong>System Analysis and Development</strong> student at IFRS since 2022, currently wrapping up my graduation.</li>
     <li>👨🏾‍💻 Front-end Developer at <a href="https://www.maiscentroclinico.com.br/">Mais Centro Clínico</a>, the largest clinical center on the northern coast of Rio Grande do Sul, Brazil.</li>
