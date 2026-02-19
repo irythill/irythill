@@ -9,7 +9,7 @@
 <p align="center">
   <ul>
     <li>🙋🏾‍♂️ I'm a <strong>System Analysis and Development</strong> student at IFRS since 2022, currently wrapping up my graduation.</li>
-    <li>👨🏾‍💻 Front-end Developer at <a href="https://www.maiscentroclinico.com.br/">Mais Centro Clínico</a>, the largest clinical center on the northern coast of Rio Grande do Sul, Brazil.</li>
+    <li>👨🏾‍💻 Currently a Front-end Developer at <a href="https://www.maiscentroclinico.com.br/">Mais Centro Clínico</a>.</li>
     <li>👊🏾 Skilled with <strong>React, TypeScript, Next.js and Tailwind CSS</strong>, and also building projects with <strong>Node.js, Express, MongoDB, Supabase, PostgreSQL and Docker</strong>.</li>
     <li>🐧 Linux enthusiast — Arch Linux has been my latest hobby (yes, I enjoy breaking and fixing things 😅).</li>
     <li>🔎 Always eager to learn, share knowledge, and connect with new people. If you'd like to collaborate on a project or just have a chat, feel free to reach out!</li>
